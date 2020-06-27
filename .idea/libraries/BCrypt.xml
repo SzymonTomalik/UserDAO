@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="BCrypt">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../Kurs/biblioteki/jBCrypt-0.4/src" />
+      <root url="file://$PROJECT_DIR$/../Kurs/biblioteki/jBCrypt-0.4/test" />
+    </SOURCES>
+  </library>
+</component>
