@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b84797b3-79b5-45ee-8d47-2f4770a1f7f0" name="Default Changelist" comment="poprawiony">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/BCrypt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/de_svenkubiak_jBCrypt_0_4_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserDao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/UserDao.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/coderslab/entity/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/entity/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/coderslab/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/coderslab/entity/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/entity/UserDao.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="usePluginRegistry" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fvEzoeawAiPX88Y0ZNJTiHzE5D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Kurs/biblioteki/mysql-connector-java-5.1.49.jar" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.coderslab.entity.Main" />
+      <module name="UserDao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.coderslab.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b84797b3-79b5-45ee-8d47-2f4770a1f7f0" name="Default Changelist" comment="" />
+      <created>1597090432334</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597090432334</updated>
+      <workItem from="1597090433905" duration="555000" />
+      <workItem from="1597091010243" duration="462000" />
+      <workItem from="1597091489717" duration="2185000" />
+      <workItem from="1597094883943" duration="293000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="poprawiony" />
+    <option name="LAST_COMMIT_MESSAGE" value="poprawiony" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2048" y="355" width="1654" height="377" key="#SQL_Dialects" timestamp="1597094947880">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2048" y="355" width="1654" height="377" key="#SQL_Dialects/72.34.1848.1046/1920.0.1920.1080@1920.0.1920.1080" timestamp="1597094947880" />
+    <state x="2449" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597091680553">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2449" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.34.1848.1046/1920.0.1920.1080@1920.0.1920.1080" timestamp="1597091680553" />
+    <state x="2610" y="192" width="878" height="703" key="FileChooserDialogImpl" timestamp="1597091083540">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2610" y="192" width="878" height="703" key="FileChooserDialogImpl/72.34.1848.1046/1920.0.1920.1080@1920.0.1920.1080" timestamp="1597091083540" />
+    <state width="1864" height="261" key="GridCell.Tab.0.bottom" timestamp="1597093812244">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1864" height="261" key="GridCell.Tab.0.bottom/72.34.1848.1046/1920.0.1920.1080@1920.0.1920.1080" timestamp="1597093812244" />
+    <state width="1864" height="261" key="GridCell.Tab.0.center" timestamp="1597093812244">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1864" height="261" key="GridCell.Tab.0.center/72.34.1848.1046/1920.0.1920.1080@1920.0.1920.1080" timestamp="1597093812244" />
+    <state width="1864" height="261" key="GridCell.Tab.0.left" timestamp="1597093812244">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1864" height="261" key="GridCell.Tab.0.left/72.34.1848.1046/1920.0.1920.1080@1920.0.1920.1080" timestamp="1597093812244" />
+    <state width="1864" height="261" key="GridCell.Tab.0.right" timestamp="1597093812244">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1864" height="261" key="GridCell.Tab.0.right/72.34.1848.1046/1920.0.1920.1080@1920.0.1920.1080" timestamp="1597093812244" />
+    <state width="318" height="695" key="HiddenNamespacesPopup" timestamp="1597091696016">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="318" height="695" key="HiddenNamespacesPopup/72.34.1848.1046/1920.0.1920.1080@1920.0.1920.1080" timestamp="1597091696016" />
+    <state x="2235" y="15" width="1280" height="1056" key="SettingsEditor" timestamp="1597091469502">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2235" y="15" width="1280" height="1056" key="SettingsEditor/72.34.1848.1046/1920.0.1920.1080@1920.0.1920.1080" timestamp="1597091469502" />
+  </component>
+</project>
