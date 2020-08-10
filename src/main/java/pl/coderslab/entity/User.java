@@ -3,7 +3,6 @@ package pl.coderslab.entity;
 public class User {
     private int id;
     private String userName;
-    private String user_Surname;
     private String email;
     private String password;
 
@@ -23,13 +22,6 @@ public class User {
         this.userName = userName;
     }
 
-    public String getUser_Surname() {
-        return user_Surname;
-    }
-
-    public void setUser_Surname(String user_Surname) {
-        this.user_Surname = user_Surname;
-    }
 
     public String getEmail() {
         return email;
@@ -49,7 +41,7 @@ public class User {
 
     @Override
     public String toString() {
-        return id+" | "+userName+" | "+user_Surname+" | "+email+" | "+password;
+        return id + " | " + userName + " | " + email + " | " + password;
     }
 }
 

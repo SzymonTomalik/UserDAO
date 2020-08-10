@@ -9,5 +9,8 @@
         <module name="UserDao" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="UserDao" target="7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
