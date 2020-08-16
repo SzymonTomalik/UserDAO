@@ -23,19 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b84797b3-79b5-45ee-8d47-2f4770a1f7f0" name="Default Changelist" comment="poprawiony">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/BCrypt.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/de_svenkubiak_jBCrypt_0_4_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserDao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/UserDao.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pl/coderslab/entity/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/entity/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/coderslab/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/entity/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pl/coderslab/entity/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/entity/UserDao.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,19 +76,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
@@ -116,8 +93,25 @@
       <workItem from="1597090433905" duration="555000" />
       <workItem from="1597091010243" duration="462000" />
       <workItem from="1597091489717" duration="2185000" />
-      <workItem from="1597094883943" duration="293000" />
+      <workItem from="1597094883943" duration="940000" />
+      <workItem from="1597576545409" duration="1511000" />
+      <workItem from="1597596435953" duration="114000" />
     </task>
+    <task id="LOCAL-00001" summary="poprawiony">
+      <created>1597095186691</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597095186691</updated>
+    </task>
+    <task id="LOCAL-00002" summary="poprawiony">
+      <created>1597095203989</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597095203989</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,5 +170,9 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2235" y="15" width="1280" height="1056" key="SettingsEditor/72.34.1848.1046/1920.0.1920.1080@1920.0.1920.1080" timestamp="1597091469502" />
+    <state x="2375" y="208" width="1000" height="671" key="Vcs.Push.Dialog.v2" timestamp="1597095220107">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2375" y="208" width="1000" height="671" key="Vcs.Push.Dialog.v2/72.34.1848.1046/1920.0.1920.1080@1920.0.1920.1080" timestamp="1597095220107" />
   </component>
 </project>

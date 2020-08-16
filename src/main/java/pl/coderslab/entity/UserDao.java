@@ -84,8 +84,6 @@ public class UserDao {
     public void update(User user) {
         try (Connection conn = DbUtil.getConnection()) {
             PreparedStatement preStmt = conn.prepareStatement(UPDATE_USER_QUERY);
-            PreparedStatement statement1 = conn.prepareStatement("SELECT * FROM users");
-            ResultSet resultSet = statement1.executeQuery();
             preStmt.setString(1, user.getUserName());
             preStmt.setString(2, user.getEmail());
             preStmt.setString(3, this.hashPassword(user.getPassword()));
