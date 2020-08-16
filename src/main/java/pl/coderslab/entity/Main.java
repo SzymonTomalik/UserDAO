@@ -16,13 +16,13 @@ public class Main {
 //        UserDao.printUserById(userDao.read(20));
 
 
-        // update:
-        UserDao userDao=new UserDao();
-        User editedUser= userDao.read(1);
-        editedUser.setUserName("Łukaszino");
-        editedUser.setEmail("newnewnew@wp.pl");
-        editedUser.setPassword("new123321wen");
-        userDao.update(editedUser);
+//        // update:
+//        UserDao userDao=new UserDao();
+//        User editedUser= userDao.read(1);
+//        editedUser.setUserName("Łukaszino");
+//        editedUser.setEmail("newnewnew@wp.pl");
+//        editedUser.setPassword("new123321wen");
+//        userDao.update(editedUser);
 
 //        //findAll
 //        UserDao userDao=new UserDao();
